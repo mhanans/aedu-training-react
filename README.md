@@ -5,7 +5,7 @@ For use as a Training Resource Repository to support React Training programs at 
 
 This project serves as a demonstration of during the React Training at Accelist Edukasi. It doesn't provide a step-by-step guide to understanding key functions and just can be used as a reference to compare and verify the accuracy of your own code during the learning process.
 
-## Setup Instructions
+## Setup Instructions (React + Typescript)
 
 1. Clone the repository:
    ```bash
@@ -37,3 +37,11 @@ This project serves as a demonstration of during the React Training at Accelist 
 
     Section 5: 
     Advanced Topics: Hooks (useEffect, custom hooks), React Router, Context API, Redux, Error Boundaries, testing, Suspense, etc
+
+## Running JavaScript Fundamentals
+- The examples in `src/js-fundamental.js` will log to the in terminal.
+- This only can be run independently, execute it with Node.js:
+    ```bash
+    cd aedu-training-react
+    cd src
+    node fundamentals.js
